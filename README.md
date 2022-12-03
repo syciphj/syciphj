@@ -1,16 +1,18 @@
-### Hi there 👋
+### Henri Sycip
+> /hehn-ree sea-sip/
 
-<!--
-**syciphj/syciphj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there, Henri here. 👋
+I'm a Team Leader and frontend developer who loves crafting delightful experiences on web and mobile. Back in 2014 I switched from brand management to software development. Since then, I've designed and developed web applications and pioneered a support engineering team in APAC. 
 
-Here are some ideas to get you started:
+🔭 I’m currently working on: an e-commerce sample with Svelte
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 My latest project: [https://github.com/syciphj/hs-portfolio](https://github.com/syciphj/hs-portfolio)  - personal website 
+
+💬 Ask me about: getting into tech, design, UX Research, or leading global teams
+
+📫 How to reach me:
+- Website: [henrisycip.com](https://henrisycip.com) 
+- Email: syciphj@gmail.com
+- LinkedIn: [in/henri-sycip](https://www.linkedin.com/in/henri-sycip/)
+
+⚡ Fun fact: I recently travelled 10 467 km to live in Luxembourg! 
