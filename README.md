@@ -6,7 +6,7 @@ I'm a Team Leader and frontend developer who loves crafting delightful experienc
 
 🔭 I’m currently working on: part 2 of my Imperative to Declarative Angular demos. 
 
-🌱 My latest project: [https://github.com/syciphj/imperative-angular-cookbook](Part 1 - Imperative Angular Cookbook)  - Demo for Imperative style Angular 
+🌱 My latest project: [Imperative Angular Cookbook](https://github.com/syciphj/imperative-angular-cookbook) - Demo for Imperative style Angular 
 
 💬 Ask me about: getting into tech, design, UX Research, or leading global teams
 
